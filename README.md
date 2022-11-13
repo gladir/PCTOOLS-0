@@ -1,6 +1,10 @@
 # PCTOOLS-0
 Clone du PC Tools du DOS écrit en Pascal
 
+![image](https://user-images.githubusercontent.com/11842176/201533000-ce5ea255-a2c4-47fb-bcdc-4129d4a4a65c.png)
+
+![image](https://user-images.githubusercontent.com/11842176/201533032-01946373-c375-4e66-935a-bee098255178.png)
+
 <h2>Langage humain</h3>
 
 Pour changer la langue des commandes, vous devez fixer la valeur de la variable d'environnement LANGUAGE, par exemple, pour passer à l'anglais :
